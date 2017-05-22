@@ -1,5 +1,17 @@
 # vueconf-ppt
 
+https://vue.w3ctech.com/
+
+备了个份
+
+![](Vue.js-in-ele-qingv.pdf)
+![](VueConf-Beijing.pdf)
+![](Weex-Vue.js-2.0.pdf)
+![](vue-vuex-VIDE.pdf)
+![](vue_conf_zhangyaochun.pdf)
+
+下面是我的
+
 ![](https://github.com/i5ting/vueconf-ppt/raw/master/Vue%20SSR%E5%92%8CAPI%20Proxy%E5%AE%9E%E8%B7%B5.001.jpeg)
 ![](https://github.com/i5ting/vueconf-ppt/raw/master/Vue%20SSR%E5%92%8CAPI%20Proxy%E5%AE%9E%E8%B7%B5.002.jpeg)
 ![](https://github.com/i5ting/vueconf-ppt/raw/master/Vue%20SSR%E5%92%8CAPI%20Proxy%E5%AE%9E%E8%B7%B5.003.jpeg)
